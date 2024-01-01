@@ -33,6 +33,7 @@ const Header = () => {
               key={link.title}
               href={link.href}
               className="hidden font-medium text-gray-900 dark:text-gray-100 sm:block"
+              style={{ fontSize: '22px' }}
             >
               {link.title}
             </Link>
