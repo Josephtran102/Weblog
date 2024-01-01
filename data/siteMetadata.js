@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'JosephTran', // Bar tittle on browser
   author: 'Tails Azimuth', //Author below footer
   headerTitle: '',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Blockchain & Crypto news',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
